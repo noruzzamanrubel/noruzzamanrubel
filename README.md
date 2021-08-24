@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noruzzaman</h1>
 <h3 align="center">A passionate web/app developer who is playing with PHP, Laravel, WordPress and more...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noruzzamanrubel&label=Profile%20views&color=0e75b6&style=flat" alt="noruzzamanrubel" /> </p>
-
-<p align="left"> <a href="https://github.com/noruzzamanrubel?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=noruzzamanrubel" alt="noruzzamanrubel" /></a> </p>
-
 - 🔭 I’m currently working on [BoomDevs](https://boomdevs.com/)
 
 - 🌱 I’m currently learning **Laravel, WordPress Plugin**
