@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BoomDevs](https://boomdevs.com/)
 
-- 🌱 I’m currently learning **Laravel, WordPress Plugin**
+- 🌱 I’m currently learning **Vue JS, WordPress Plugin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/noruzzamanrubel](https://github.com/noruzzamanrubel)
 
