@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://arifszn.github.io" alt="Noruzzaman" title="Noruzzaman">
-    <img src="https://raw.githubusercontent.com/arifszn/arifszn/master/assets/preview.gif" width="100%"/>
-  </a>
-</p>
-
-<br/>
-
 <h1 align="center">Hi 👋, I'm Noruzzaman</h1>
 <h3 align="center">A passionate web/app developer who is playing with PHP, Laravel, WordPress and more...</h3>
 
