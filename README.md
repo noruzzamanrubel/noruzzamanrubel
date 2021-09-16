@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://arifszn.github.io" alt="Ariful Alam" title="Ariful Alam">
+  <a href="https://arifszn.github.io" alt="Noruzzaman" title="Noruzzaman">
     <img src="https://raw.githubusercontent.com/arifszn/arifszn/master/assets/preview.gif" width="100%"/>
   </a>
 </p>
