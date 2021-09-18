@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/30516757_981495935349749_8928508440196677632_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_ohc=YBpBhiTrBqcAX9bn2T5&tn=LRnqTOCLX7eXjTL6&_nc_ht=scontent.fdac99-1.fna&oh=b18ae19345b8349b2ff5984263ab65c2&oe=616A7AA0)
+![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQEzB2MortgYmQ/profile-displaybackgroundimage-shrink_200_800/0/1631984969073?e=1637193600&v=beta&t=wOr8uL6wqPaOHiy--IZcaRSH-ftGq0iyS5RJBGBKz3U)
 
 <h1 align="center">Hi 👋, I'm Noruzzaman</h1>
 <h3 align="center">A passionate web/app developer who is playing with PHP, Laravel, WordPress and more...</h3>
