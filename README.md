@@ -1,5 +1,5 @@
 ![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQEzB2MortgYmQ/profile-displaybackgroundimage-shrink_200_800/0/1631984969073?e=1637193600&v=beta&t=wOr8uL6wqPaOHiy--IZcaRSH-ftGq0iyS5RJBGBKz3U)
-<h1 align="center">Hi 👋, I'm Noruzzaman</h1>
+<h1 align="center">Hi 👋, I'm Noruzzaman</h1> 
 <h3 align="center">A passionate web/app developer who is playing with PHP, Laravel, WordPress and more...</h3>
 
 - 🔭 I’m currently working on [BoomDevs](https://boomdevs.com/)
