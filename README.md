@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Noruzzaman</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+This+is+Noruzzaman)](https://git.io/typing-svg)
 <h3 align="center">A passionate web/app developer who is playing with PHP, Laravel, WordPress and more...</h3>
 
 - 🔭 I’m currently working on [BoomDevs](https://boomdevs.com/) 
