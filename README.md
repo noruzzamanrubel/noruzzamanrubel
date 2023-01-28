@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noruzzaman</h1>
+## [![NoruzzamanRube1](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0093F7&background=18FF0000&vCenter=true&height=25&lines=👋+Hi!+This+is+@NoruzzamanRube1)](https://twitter.com/NoruzzamanRube1)
 <h3 align="center">A passionate web/app developer who is playing with PHP, Laravel, WordPress and more...</h3>
 
 - 🔭 I’m currently working on [BoomDevs](https://boomdevs.com/) 
