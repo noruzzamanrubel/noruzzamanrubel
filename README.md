@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS** 
 
-- 👨‍💻 All of WordPress Plugin are available at [https://profiles.wordpress.org/noruzzaman/#content-plugins](https://profiles.wordpress.org/noruzzaman/#content-plugins)
+- 👨‍💻 All of WordPress Plugin are available at [https://profiles.wordpress.org/noruzzaman/#content-plugins](https://profiles.wordpress.org/noruzzaman/)
 
 - 💬 Ask me about **Your problem and get a well organized solution** 
 
