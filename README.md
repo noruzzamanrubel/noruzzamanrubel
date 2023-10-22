@@ -12,6 +12,7 @@
 - 📫 How to reach me **noruzzamanrubel@gmail.com**
 
 - ⚡ Fun fact **Teaching**
+- ![noruzzaman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=noruzzamanrubel&theme=darcula&hide_border=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
