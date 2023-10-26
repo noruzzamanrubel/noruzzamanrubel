@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Noruzzaman</h1>
-<h3 align="center">A passionate web/app developer who is playing with PHP, Laravel, WordPress and more...</h3>
+<h3 align="center">A passionate web developer who is playing with PHP, JavaScript, WordPress and more...</h3>
 
 - 🔭 I’m currently working on [BoomDevs](https://boomdevs.com/) 
 
 - 🌱 I’m currently learning **React JS** 
 
-- 👨‍💻 All of WordPress Plugin are available at [https://profiles.wordpress.org/noruzzaman](https://profiles.wordpress.org/noruzzaman/#content-plugins)
+- 👨‍💻 All WordPress plugins are available at [https://profiles.wordpress.org/noruzzaman](https://profiles.wordpress.org/noruzzaman/#content-plugins)
 
-- 💬 Ask me about **Your problem and get a well organized solution** 
+- 💬 Ask me about **Your problem and get a well-organized solution** 
 
 - 📫 How to reach me **noruzzamanrubel@gmail.com**
 
