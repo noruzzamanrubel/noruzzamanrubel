@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BoomDevs](https://boomdevs.com/) 
 
-- 🌱 I’m currently learning **React JS** 
+- 🌱 I’m currently learning **Gutenberg Block** 
 
 - 👨‍💻 All WordPress plugins are available at [https://profiles.wordpress.org/noruzzaman](https://profiles.wordpress.org/noruzzaman/#content-plugins)
 
